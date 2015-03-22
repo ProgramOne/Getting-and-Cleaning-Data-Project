@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Project
-
+ 
 The script run_analysis.R performs the 5 steps.
 1. Merges the training and the test sets to create one data set. Data is merged with rbind() function.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. Data is extracted
