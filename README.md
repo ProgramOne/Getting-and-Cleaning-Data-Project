@@ -9,4 +9,4 @@ from activity_labels.txt
 4. Appropriately labels the data set with descriptive variable names. Additional column names have been assigned.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of
 each variable for each activity and each subject. New dataset has been generated using ddply() function and
-saved as a .txt file format.
+saved as a .txt file.
